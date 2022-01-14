@@ -12,5 +12,5 @@ spec:
         paths:
           - path: /
             backend:
-              serviceNiiame: guestbook-ui
+              serviceName: guestbook-ui
               servicePort: 80
